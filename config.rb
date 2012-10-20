@@ -2,10 +2,10 @@
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/"
-http_images_path = "/images"
-http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+http_path = "/collabgang/"
+http_images_path = "/collabgang/images"
+http_fonts_path = "/collabgang/fonts"
+css_dir = "public/collabgang/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
